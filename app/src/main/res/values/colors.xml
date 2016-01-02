@@ -14,4 +14,24 @@
   <color name="base">#AAAAAA</color>
   <color name="iron">#CCCCCC</color>
   <color name="white">#FFFFFF</color>
+
+  <color name="style_color_primary">#822d2d</color>
+  <color name="style_color_primary_dark">#5d2121</color>
+  <color name="style_color_accent">#d50101</color>
+
+  <color name="fab_color_pressed">#870700</color>
+  <color name="fab_color_shadow">#44000000</color>
+
+  <color name="btn_default_light_normal">#00000000</color>
+  <color name="btn_default_light_pressed">#40ffffff</color>
+  <color name="btn_send_normal">#c70902</color>
+  <color name="btn_send_pressed">#660300</color>
+  <color name="btn_default_shadow">#99000000</color>
+  <color name="btn_context_menu_normal">#ffffff</color>
+  <color name="btn_context_menu_pressed">#40000000</color>
+  <color name="btn_context_menu_text_red">#ffff0000</color>
+
+  <color name="text_like_counter">#832b2b</color>
+
+  <color name="bg_comments">#ffffff</color>
 </resources>
